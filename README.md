@@ -1,10 +1,18 @@
-# SPEC-3 - Spec-Code Alignment & Gap Analysis
+# Starter repo - SPEC-3
 
-This exercise compares a specification with an existing implementation to identify mismatches and gaps.
+This repository contains a specification and a Flask implementation to compare.
 
 Files:
 
-- `INSTALLATION.md`: prerequisites and setup.
-- `GUIDE.md`: step-by-step exercise instructions.
-- `SCRIPT_VIDEO.md`: French script for the illustration video.
-- `repo/`: starter repository.
+- `spec.md`: reference specification.
+- `app.py`: implementation to analyze.
+- `alignment-report.md`: file to create during the exercise.
+- `spec-v2.md`: corrected specification to create if needed.
+
+Useful command:
+
+```bash
+# Running the server is optional.
+# Optionnel :
+python app.py
+```
